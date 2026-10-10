@@ -42,3 +42,11 @@ This project was created as part of a Git and GitHub practical assignment.
 
 \- GitHub
 
+
+
+\## Error Handling
+
+
+
+The calculator includes basic error handling for invalid operations such as division by zero.
+
