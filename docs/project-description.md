@@ -2,27 +2,53 @@
 
 
 
-This project is a practical exercise for learning Git and GitHub.
+This project demonstrates fundamental Git and GitHub workflows using a Python calculator application.
 
 
 
-The project demonstrates:
+\## Features
 
 
 
-\- Git repository initialization
-
-\- Creating commits
-
-\- Working with branches
-
-\- Merging branches
-
-\- Managing project files
-
-\- Pushing a local repository to GitHub
+The application currently supports:
 
 
 
-The project contains a simple Python program and basic calculator functions.
+\- Addition
+
+\- Subtraction
+
+\- Multiplication
+
+\- Name display
+
+\- Current date display
+
+
+
+\## Git Features Demonstrated
+
+
+
+\- Repository initialization
+
+\- Staging files
+
+\- Commits
+
+\- Branch creation
+
+\- Branch merging
+
+\- Remote repository configuration
+
+\- Pushing changes to GitHub
+
+
+
+\## Purpose
+
+
+
+The purpose of this project is to develop practical experience with version control and collaborative software development workflows.
 
