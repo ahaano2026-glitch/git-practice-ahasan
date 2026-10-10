@@ -2,17 +2,43 @@
 
 
 
-\## Name
-
-Ahasan Habib
+\## Student Information
 
 
 
-\## Project Description
-
-This project is created as part of a Git and GitHub practical assignment.
+\*\*Name:\*\* Ahasan Habib
 
 
 
-The project demonstrates basic Git operations including repository initialization, commits, branches, merging, and pushing code to GitHub.
+\## Project Purpose
+
+
+
+This project was created as part of a Git and GitHub practical assignment.
+
+
+
+\## Features
+
+
+
+\- Display student's name
+
+\- Display current date
+
+\- Addition calculator
+
+\- Subtraction calculator
+
+
+
+\## Technologies
+
+
+
+\- Python
+
+\- Git
+
+\- GitHub
 
